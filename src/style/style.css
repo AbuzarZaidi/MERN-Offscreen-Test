@@ -1,0 +1,46 @@
+.Box{
+    width:30%;
+    height:100px;
+    border:1px solid black;
+ 
+    
+    margin: auto;
+    margin-top: 40px;
+}
+.Box1{
+    width:30%;
+    height:100px;
+    border:1px solid black;
+   
+    
+    margin: auto;
+    margin-top: 40px;
+}
+.val{
+    margin-top: 20px;
+   display: flex;
+   justify-content: center;
+}
+.val1{
+    margin-top: 20px;
+   display: flex;
+   justify-content: space-between;
+}
+.btn{
+    height: 70px;
+    width: 50px;
+}
+.outerAnsBox{
+    display: flex;
+    justify-content: flex-end;
+}
+.ansBox{
+  
+    border: 1px solid black;
+    width:50px;
+    height:42px;
+}
+.text{
+    font-size: 10px;
+    font-weight: 500;
+}
